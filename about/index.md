@@ -7,4 +7,4 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
+I'm not a person that writes much. or publishes much. Just hoping to learn a few new tool.
