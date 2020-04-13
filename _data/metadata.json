@@ -1,15 +1,14 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Fredonia Graphic Design ",
+  "url": "https://jasondilworth.com/",
+  "description": "A simple static site blog for our class",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Most websites suck, this is another one of those sites.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "id": "https://graphic-design.com/"
   },
-  "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+  "author": {Dilworth",
+    "email": "Dilworth@fredonia.edu"
   }
 }
