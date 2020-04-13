@@ -1,6 +1,6 @@
 ---
-title: Ethics.
-description: Design in the capita.
+title: Ethics
+description: Design in the capital.
 date: 2018-08-24
 tags:
   - second-tag
