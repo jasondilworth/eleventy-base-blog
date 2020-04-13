@@ -1,6 +1,6 @@
 ---
-title: This is my third post.
-description: This is a post on My Blog about win-win survival strategies.
+title: Ethics.
+description: Design in the capita.
 date: 2018-08-24
 tags:
   - second-tag
@@ -26,3 +26,7 @@ Bring to the table win-win survival strategies to ensure proactive domination. A
 ## Section Header
 
 Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+
+##
+
+An [Prepare for the Ultimate Gaslighting](https://forge.medium.com/prepare-for-the-ultimate-gaslighting-6a8ce3f0a0e0).
