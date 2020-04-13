@@ -1,9 +1,17 @@
 ---
+<<<<<<< HEAD
 title: Design Realities Spring 2020
 description: Design in the age of home confinement
 date: 2020-04-12
 tags:
   - Design ethics, graphic design,
+=======
+title: This is my first post.
+description: This is a post on My Blog about agile frameworks.
+date: 2018-05-01
+tags:
+  - another-tag
+>>>>>>> parent of 120d414... Learning how to write post
 layout: layouts/post.njk
 ---
 
