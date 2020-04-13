@@ -1,9 +1,9 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+title: Design Realities Spring 2020
+description: Design in the age of home confinment .
+date: 2020-04-12
 tags:
-  - another-tag
+  - Design Ethics
 layout: layouts/post.njk
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
